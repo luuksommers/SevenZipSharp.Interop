@@ -1,5 +1,5 @@
 # SevenZipSharp.Interop  #
-This plugin installs the 7z interop dll's 9.38 into your project. This way you can use SevenZipSharp without installing 7zip.
+This plugin installs the 7z interop dll's 19.00 into your project. This way you can use SevenZipSharp without installing 7zip.
 
 [NuGet](https://www.nuget.org/packages/SevenZipSharp.Interop)
 
