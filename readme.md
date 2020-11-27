@@ -3,6 +3,10 @@ This plugin installs the 7z interop dll's 19.00 into your project. This way you 
 
 [NuGet](https://www.nuget.org/packages/SevenZipSharp.Interop)
 
+### Changelog ###
+
+19.0.1 [Add support for VS2019](https://github.com/luuksommers/SevenZipSharp.Interop/pull/14) thanks to [SpiridonovAlexMoeDelo](https://github.com/SpiridonovAlexMoeDelo)
+
 ### Usage ###
 ```csharp
 // Toggle between the x86 and x64 bit dll
