@@ -5,7 +5,8 @@ This plugin installs the 7z interop dll's 19.00 into your project. This way you 
 
 ### Changelog ###
 
-19.0.1 [Add support for VS2019](https://github.com/luuksommers/SevenZipSharp.Interop/pull/14) thanks to [SpiridonovAlexMoeDelo](https://github.com/SpiridonovAlexMoeDelo)
+- 19.0.2 [Add support for VS2022]
+- 19.0.1 [Add support for VS2019](https://github.com/luuksommers/SevenZipSharp.Interop/pull/14) thanks to [SpiridonovAlexMoeDelo](https://github.com/SpiridonovAlexMoeDelo)
 
 ### Usage ###
 ```csharp
