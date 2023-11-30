@@ -12,4 +12,9 @@
     <projectUrl>https://github.com/luuksommers/SevenZipSharp.Interop/</projectUrl>
     <tags>7zip SevenZipSharp</tags>
   </metadata>
+  <files>
+    <file src="build\x86\7z.dll" target="build\x86" />
+    <file src="build\x64\7z.dll" target="build\x64" />
+    <file src="build\SevenZipSharp.Interop.targets" target="build\SevenZipSharp.Interop.NoReferences.targets" />
+  </files>
 </package>
