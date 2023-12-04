@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>SevenZipSharp.Interop.NoReferences</id>
-    <version>19.0.2</version>
+    <version>19.1.0</version>
     <authors>Luuk Sommers</authors>
     <licenseUrl>https://github.com/luuksommers/SevenZipSharp.Interop/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
